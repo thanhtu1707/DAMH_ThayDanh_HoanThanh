@@ -1,0 +1,31 @@
+C:\Users\Admin\Desktop\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\Admin\Desktop\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\Admin\Desktop\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\Admin\Desktop\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\nhu\Desktop\Thaydanh\New folder\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\nhu\Desktop\Thaydanh\New folder\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\nhu\Desktop\Thaydanh\New folder\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+C:\Users\nhu\Desktop\Thaydanh\New folder\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\nhu\Desktop\Thaydanh\New folder\DoAn_ThayDanh\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.pdb
+D:\DAMH_Danh\06.08.2020\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.dll
+D:\DAMH_Danh\06.08.2020\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.pdb
+D:\DAMH_Danh\06.08.2020\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+D:\DAMH_Danh\06.08.2020\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.dll
+D:\DAMH_Danh\06.08.2020\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\nhu\Desktop\Danh_CUOI\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\nhu\Desktop\Danh_CUOI\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\nhu\Desktop\Danh_CUOI\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+C:\Users\nhu\Desktop\Danh_CUOI\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\nhu\Desktop\Danh_CUOI\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\nhu\Desktop\Danh_CUOI\CUOI\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\nhu\Desktop\Danh_CUOI\CUOI\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\nhu\Desktop\Danh_CUOI\CUOI\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+C:\Users\nhu\Desktop\Danh_CUOI\CUOI\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\nhu\Desktop\Danh_CUOI\CUOI\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\Admin\Desktop\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\Admin\Desktop\DAMH_Danh_DoAn\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\Admin\Desktop\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\Admin\Desktop\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\Admin\Desktop\DAMH_Danh_DoAn\ThietKeControl\obj\Debug\ThietKeControl.csprojAssemblyReference.cache
